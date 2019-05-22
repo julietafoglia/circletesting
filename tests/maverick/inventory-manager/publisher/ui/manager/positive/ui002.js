@@ -44,7 +44,7 @@ let publisherFixture = Object.assign(
 publisherFixture['managerName'] = 'QA-All user';
 publisherFixture['executiveName'] = 'QA-All user';
 
-describe('<SMOKE-PROD> {{MAVERICK}} inventory manager - inventory Publisher' +
+describe('<SMOKI> {{MAVERICK}} inventory manager - inventory Publisher' +
     ' >>> (+) basic ui validation >>>', function() {
 
     // disable mocha time outs

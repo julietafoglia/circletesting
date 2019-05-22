@@ -40,7 +40,7 @@ let lastUpdTitle = 'LAST UPDATED';
 // page objects
 let dashboardPage, loginPage, mediaGroupDetailsPage;
 
-describe('<SMOKE-PROD> {{MAVERICK}} inventory manager - Media group' +
+describe('<SMOKI> {{MAVERICK}} inventory manager - Media group' +
     ' inventory library >>> (+) basic ui validation >>>', function() {
 
     // disable mocha time outs

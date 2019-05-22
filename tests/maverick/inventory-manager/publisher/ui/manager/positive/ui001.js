@@ -54,7 +54,7 @@ let publisherFixture = Object.assign(
 publisherFixture['managerName'] = 'QA-All user';
 publisherFixture['executiveName'] = 'QA-All user';
 
-describe('<SMOKE-PROD> {{MAVERICK}} inventory manager - inventory library' +
+describe('<SMOKI> {{MAVERICK}} inventory manager - inventory library' +
     ' Publisher Create Detail Page >>> (+) basic ui validation >>>',
 function() {
 
