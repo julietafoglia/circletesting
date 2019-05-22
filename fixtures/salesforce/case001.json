@@ -1,0 +1,12 @@
+{
+    "caseRecordType": "Platform Operations",
+    "category": "New Campaign Set Up",
+    "subject": "Ghostrider Test",
+    "description": "Test Case for Ghostrider LiveInticket UI Validation tests",
+    "pixelNeeded": "No",
+    "newCreativeAssets": "No",
+    "advertiserId": 12345,
+    "account": "",
+    "opportunity": "",
+    "agreement": "test"
+}

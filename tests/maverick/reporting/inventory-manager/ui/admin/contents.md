@@ -1,0 +1,1 @@
+*ui001* Inventory Manager Reporting - UI validation on Create Reports page

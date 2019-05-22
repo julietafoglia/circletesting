@@ -1,0 +1,1 @@
+*pos-details001* strategy details - url - media-group - strategy with all valid fields

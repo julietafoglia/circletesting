@@ -1,0 +1,7 @@
+{
+    "email": "usr@example.com",
+    "firstName": "Hash",
+    "lastName": "Person",
+    "password": "p@ssw0rd",
+    "confirmPassword": "p@ssw0rd"
+}

@@ -1,0 +1,16 @@
+{
+    "accountName": "TestExistingOpportunity",
+    "name": "TestExistingOpportunity",
+    "opportunityUrl": "0061600000qHaLr",
+    "brand": "Ghostrider",
+    "ioName": "Ghostrider IO",
+    "type": "Renewal",
+    "liveDate": "",
+    "endDate": "",
+    "lfmAdvId": 999999,
+    "domain": "www.example.com",
+    "iabCategory": 4,
+    "lfmIoId": 999999,
+    "adServer": "LiveIntent",
+    "liNumbers": "Yes"
+}

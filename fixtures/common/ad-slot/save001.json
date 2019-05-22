@@ -1,0 +1,9 @@
+{
+    "externalId": "9999e5c41b7211e68c1522000a979999",
+    "position": "unknown",
+    "sspControl": {
+        "exchangeAllow": false,
+        "exchangeFloor": 5300.89,
+        "targetingType": "exclude"
+    }
+}

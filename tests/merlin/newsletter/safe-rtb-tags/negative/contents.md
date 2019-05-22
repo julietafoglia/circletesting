@@ -1,0 +1,1 @@
+*tags001* get newsletter safe-rtb tags - invalid id

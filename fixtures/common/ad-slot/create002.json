@@ -1,0 +1,78 @@
+{
+    "_isClone": false,
+    "newsletter": "",
+    "mediaType": "dedicated",
+    "sspControl": {
+      "exchangeAllow": null,
+      "rtbAllow": null,
+      "rtbFloor": null,
+      "rtbTransparency": null,
+      "exchangeFloor": null
+    },
+    "isUniversalTag": true,
+    "name": "Test Adslot vfix",
+    "type": "image",
+    "sizes": [
+      {
+        "width": 160,
+        "height": 600,
+        "floor": null,
+        "deviceTypes": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "width": 300,
+        "height": 250,
+        "floor": null,
+        "deviceTypes": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "width": 320,
+        "height": 50,
+        "floor": null,
+        "deviceTypes": [
+          2
+        ]
+      },
+      {
+        "width": 728,
+        "height": 90,
+        "floor": null,
+        "deviceTypes": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "width": 970,
+        "height": 250,
+        "floor": null,
+        "deviceTypes": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "width": 970,
+        "height": 550,
+        "floor": null,
+        "deviceTypes": [
+          2,
+          3
+        ]
+      }
+    ]
+  }

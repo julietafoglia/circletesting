@@ -1,0 +1,23 @@
+{
+    "name": "mavNews",
+    "iabCategory": "IAB3: Business",
+    "additionalCategories": ["IAB2: Automotive"],
+    "diffAdSources": 3,
+    "adSlots": [
+        {
+            "name": "@300x250",
+            "adType": "Fixed Ratio",
+            "allowExchange": true,
+            "ratio": "300x250"},
+        {
+            "name": "@728x90", 
+            "adType": "Fixed Ratio",
+            "allowExchange": false,
+            "ratio": "728x90"},
+        {
+            "name": "@160x600",
+            "adType": "Fixed Ratio",
+            "allowExchange": true,
+            "ratio": "160x600"}
+    ]
+}

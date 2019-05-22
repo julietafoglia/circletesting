@@ -1,0 +1,17 @@
+{
+    "insertionOrder": 999999999,
+    "category": "1",
+    "conversionPixel": null,
+    "name": "cam",
+    "demandType": "house",
+    "type": "newsletter",
+    "system": "ssp",
+    "budgetType": "currency",
+    "pricingModel": "CPM",
+    "clearingMethod": "2ndPrice",
+    "bidAmount": "10",
+    "goal": "CPC",
+    "maxCpm": 1,
+    "frequencyCapPeriod": null,
+    "budget": 10000
+}

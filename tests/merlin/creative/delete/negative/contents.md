@@ -1,0 +1,1 @@
+*neg-delete001:* delete creative - url - id - random string

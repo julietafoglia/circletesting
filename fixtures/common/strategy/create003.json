@@ -1,0 +1,15 @@
+{
+    "name": "strat-li",
+    "campaign": "9dc681a6289511e68c1522000a974651",
+    "status": "active",
+    "startDate": "2016-06-01",
+    "endDate": "2016-06-30",
+    "budget": 0,
+    "pacing": "even",
+    "keyValues": {
+        "gender": ["female", "male"],
+        "age": ["21-24", "25-34", "35-44"]
+    },
+    "keyValuesTargetingType": "include",
+    "keyValuesOperator": "ANY"
+}

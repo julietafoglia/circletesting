@@ -1,0 +1,56 @@
+{
+  "query": {
+    "queryType": "groupBy",
+    "dataSource": "custom_aggregates_inexact",
+    "granularity": "hour",
+    "descending": true,
+    "aggregations": [
+      {
+        "type": "longSum",
+        "name": "string",
+        "fieldName": "string",
+        "fieldNames": [
+          "string"
+        ],
+        "fnAggregate": "string",
+        "fnCombine": "string",
+        "fnReset": "string"
+      }
+    ],
+    "postAggregations": [
+      {
+        "type": "string",
+        "name": "string",
+        "fieldNames": [
+          "string"
+        ],
+        "function": "string"
+      }
+    ],
+    "filter": {
+      "type": "selector"
+    },
+    "intervals": [
+      {
+        "type": "absolute"
+      }
+    ],
+    "timeZone": "string",
+    "having": {
+      "type": "greaterThan"
+    }
+  },
+  "meta": {
+    "filters": [
+      {
+        "dimension": "string",
+        "type": "include",
+        "values": [
+          "string"
+        ]
+      }
+    ]
+  },
+  "queryName": "string",
+  "type": "publisher"
+}

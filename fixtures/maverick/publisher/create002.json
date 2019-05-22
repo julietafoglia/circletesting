@@ -1,0 +1,22 @@
+{
+    "name": "mavPub",
+    "category": "IAB2: Automotive",
+    "domain": "liveintent.com",
+    "cname": "rd.rdlisr.com",
+    "cnameProtocol": "https",
+    "esp": "Mailchimp",
+    "label": "Publisher_Label",
+    "kvps": {
+        "key1": "value",
+        "key2": "value",
+        "key3": "value",
+        "key4": "value",
+        "key5": "value"
+    },
+    "creative": {
+        "name": "Fallback@300x250",
+        "location": "",
+        "clickUrl": "https://www.liveintent.com"
+    },
+    "iabBlacklist": ["IAB1: Arts & Entertainment", "IAB3: Business"]
+}

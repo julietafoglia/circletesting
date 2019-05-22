@@ -1,0 +1,23 @@
+{
+    "name": "news",
+    "publisher": "",
+    "category": 12,
+    "description": null,
+    "secondaryCategories": [17, 18],
+    "externalId": "E9rhcTDGjx15L",
+    "tagsUrlPrefix": "https://li.example.com",
+    "estimatedInventory": 600000,
+    "sspControl": {
+        "exchangeAllow": true,
+        "exchangeFloor": null,
+        "rtbAllow": true,
+        "rtbTransparency": true,
+        "rtbFloor": 9.45,
+        "uniqueAds": "inherit",
+        "userMatchAllow": false,
+        "demandAllocationHouse": 5,
+        "demandAllocationDirect": 10,
+        "directoryExpose": true,
+        "directoryExposePublic": false
+    }
+}

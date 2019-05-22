@@ -1,0 +1,45 @@
+{
+    "id":"ee8ed6b8591211e6b80d0e9e5e05f653",
+    "refId":2201,
+    "version":1,
+    "name":"mda-grp",
+    "description":null,
+    "type": "Media Group",
+    "publishers":[
+
+    ],
+    "tagsUrlPrefix":null,
+    "tagsUrlPrefixInvalid":true,
+    "status":"active",
+    "manager":null,
+    "managerName":null,
+    "managerEmail":null,
+    "executive":null,
+    "executiveName":null,
+    "executiveEmail":null,
+    "contact":{
+        "company":"Ghostrider, Inc",
+        "firstName":null,
+        "lastName":null,
+        "emailAddress":"qa-all@liveintent.com",
+        "phone":"5551234567",
+        "address1":"123 Main Street",
+        "address2":"Suite 9",
+        "city":"Anytown",
+        "state":"NY",
+        "postalCode":"12345",
+        "country":"United States"
+    },
+    "lotame":null,
+    "isApiPartner":false,
+    "salesforceId":"255",
+    "advertisers":[
+
+    ],
+    "tier":1,
+    "contractType": "Platform",
+    "feeStructure": "Percentage",
+    "liPaymentTerms": "Net 30",
+    "dspFee": 2,
+    "sspFee": 1
+}

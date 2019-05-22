@@ -1,0 +1,28 @@
+{
+    "type": "publisher",
+    "query":{  
+              "dataSource": {
+                "type": "union",
+                "dataSources": ["custom_aggregates_exact"]
+              },
+               "timeZone":"America/New_York",
+               "queryType":"groupBy",
+               "intervals":[  
+                 {  
+                    "type":"dynamic",
+                     "value":"7"
+                  }
+               ],
+               "granularity":"all",
+               "postAggregations":[  
+              ],
+               "aggregations":[ {
+                 "fieldName" : "publisher_revenue",
+            "type": "doubleSum",
+            "name": "Publisher Revenue"
+               } 
+              ],
+               "dimensions":[
+               ]
+            }
+}

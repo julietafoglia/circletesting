@@ -1,0 +1,1 @@
+*pos-create001* Buyer Seat Create - create a new Buyer Seat Verification

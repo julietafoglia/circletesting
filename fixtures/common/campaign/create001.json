@@ -1,0 +1,16 @@
+{
+    "insertionOrder": 999999999,
+    "category": "1",
+    "conversionPixel": null,
+    "name": "cam",
+    "type": "newsletter",
+    "demandType": "exchange",
+    "system": "ssp",
+    "budgetType": "currency",
+    "pricingModel": "CPM",
+    "clearingMethod": "1stPrice",
+    "bidAmount": "10",
+    "frequencyCapPeriod": null,
+    "budget": 10000,
+    "spend": 11
+}

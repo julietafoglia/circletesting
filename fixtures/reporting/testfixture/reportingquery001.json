@@ -1,0 +1,37 @@
+{
+    "queryType": "groupBy",
+    "dataSource": "custom_aggregates_exact",
+    "granularity": "day",
+    "dimensions": ["publisher_id"],
+    "aggregations": [
+        {
+            "type": "longSum",
+            "name": "impressions",
+            "fieldName": "impressions"
+        },
+        {
+            "type": "longSum",
+            "name": "clicks",
+            "fieldName": "clicks"
+        }
+    ],
+    "postAggregations": [
+        {
+            "type": "javascript",
+            "name": "CTR",
+            "fieldNames": [
+                "impressions",
+                "clicks"
+            ],
+            "function": "function(Impressions, Clicks) {return Impressions ? (Clicks/Impressions) : 0;};"
+        }
+    ],
+    "intervals": [
+        {
+            "type": "absolute",
+            "start": "2016-08-01",
+            "end": "2016-08-31"
+        }
+    ],
+    "timeZone": "America/New_York"
+}

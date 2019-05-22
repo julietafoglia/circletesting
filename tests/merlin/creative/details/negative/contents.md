@@ -1,0 +1,1 @@
+*neg-details001:* creative details - url - id - random string

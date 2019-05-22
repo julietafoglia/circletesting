@@ -1,0 +1,15 @@
+{
+    "budget": null,
+    "name": "io",
+    "startDate": "2016-05-15",
+    "endDate": "2020-05-15",
+    "admin": "0d4918d86ef311e18dd712313e003071",
+    "executive": "edba695a69d911e08db512313b0454a7",
+    "trafficker": "0d4918d86ef311e18dd712313e003071",
+    "referenceNumber": "",
+    "agencyCampaign": "",
+    "adServer": "MediaMind",
+    "paymentTerms": "Net 60",
+    "externalId": "",
+    "isUnlimitedBudget": true
+}

@@ -1,0 +1,88 @@
+{
+    "template001": {
+        "adSlots": {
+            "adSlot001": {
+                "adType": "image",
+                "width": 300,
+                "height": 250
+            }
+        }
+    },
+    "template002": {
+        "adSlots": {
+            "adSlot002": {
+                "adType": "image",
+                "width": 728,
+                "height": 90
+            }
+        }
+    },
+    "template003": {
+        "adSlots": {
+            "adSlot003": {
+                "adType": "image",
+                "width": 160,
+                "height": 600
+            }
+        }
+    },
+    "template004": {
+        "adSlots": {
+            "adSlot004": {
+                "adType": "image",
+                "width": 300,
+                "height": 600
+            }
+        }
+    },
+    "template005": {
+        "adSlots": {
+            "adSlot005": {
+                "adType": "marquee"
+            }
+        }
+    },
+    "template006": {
+        "adSlots": {
+            "adSlot006": {
+                "adType": "image",
+                "width": 300,
+                "height": 250
+            }
+        }
+    },
+    "template007": {
+        "adSlots": {
+            "adSlot007": {
+                "adType": "image",
+                "width": 728,
+                "height": 90
+            }
+        }
+    } ,
+    "template008": {
+        "adSlots": {
+            "adSlot008": {
+                "adType": "image",
+                "width": 160,
+                "height": 600
+            }
+        }
+    },
+    "template009": {
+        "adSlots": {
+            "adSlot009": {
+                "adType": "image",
+                "width": 300,
+                "height": 600
+            }
+        }
+    },
+    "template010": {
+        "adSlots": {
+            "adSlot010": {
+                "adType": "marquee"
+            }
+        }
+    }  
+}

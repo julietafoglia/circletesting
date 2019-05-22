@@ -1,0 +1,231 @@
+[
+    {
+        "mediaType": "newsletter",
+        "name": "@300x250",
+        "newsletter": "",
+        "sspControl": {
+            "exchangeAllow": false
+        },
+        "type": "image",
+        "sizes": [
+            {
+                "height": 250,
+                "width": 300,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "mediaType": "newsletter",
+        "name": "@728x90",
+        "newsletter": "",
+        "sspControl": {
+            "exchangeAllow": false
+        },
+        "type": "image",
+        "sizes": [
+            {
+                "height": 728,
+                "width": 90,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "mediaType": "newsletter",
+        "name": "@200x400",
+        "newsletter": "",
+        "sspControl": {
+            "exchangeAllow": true
+        },
+        "type": "image",
+        "sizes": [
+            {
+                "height": 200,
+                "width": 400,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "mediaType": "newsletter",
+        "name": "@Mobile_Marquee",
+        "newsletter": "",
+        "sspControl": {
+            "exchangeAllow": true,
+            "exchangeFloor": 1.00
+        },
+        "type": "image",
+        "sizes": [
+            {
+                "height": 90,
+                "width": 728,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            {
+                "height": 250,
+                "width": 970,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            {
+                "height": 550,
+                "width": 970,
+                "floor": null,
+                "deviceTypes": [
+                    2,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "mediaType": "newsletter",
+        "name": "@Marquee",
+        "newsletter": "",
+        "sspControl": {
+            "exchangeAllow": false
+        },
+        "type": "image",
+        "sizes": [
+            {
+                "height": 90,
+                "width": 728,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            {
+                "height": 250,
+                "width": 970,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            {
+                "height": 550,
+                "width": 970,
+                "floor": null,
+                "deviceTypes": [
+                    2,
+                    3
+                ]
+            }
+        ]
+    },
+    {
+        "newsletter": "",
+        "type": "native",
+        "name": "@Native_in_feed",
+        "mediaType": "newsletter",
+        "native": {
+            "layout": "in_feed",
+            "context": "in feed"
+        },
+        "sspControl": {
+            "exchangeAllow": false
+        },
+        "sizes": [
+            {
+                "height": 200,
+                "width": 800,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "newsletter": "",
+        "type": "native",
+        "name": "@Native_text_ad_in_article",
+        "mediaType": "newsletter",
+        "native": {
+            "layout": "text_ad",
+            "context": "in article"
+        },
+        "sspControl": {
+            "exchangeAllow": true
+        },
+        "sizes": [
+            {
+                "height": 60,
+                "width": 800,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "newsletter": "",
+        "type": "native",
+        "name": "@Native_text_ad_outside_content",
+        "mediaType": "newsletter",
+        "native": {
+            "layout": "text_ad",
+            "context": "outside content"
+        },
+        "sspControl": {
+            "exchangeAllow": true
+        },
+        "sizes": [
+            {
+                "height": 60,
+                "width": 800,
+                "floor": null,
+                "deviceTypes": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        ]
+    }
+]

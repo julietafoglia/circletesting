@@ -1,0 +1,20 @@
+{
+    "template001": {
+        "adSlots": {
+            "adSlot001": {
+                "adType": "image",
+                "width": 300,
+                "height": 250
+            }
+        }
+    },
+    "template002": {
+        "adSlots": {
+            "adSlot001": {
+                "adType": "image",
+                "width": 300,
+                "height": 250
+            }
+        }
+    }  
+}

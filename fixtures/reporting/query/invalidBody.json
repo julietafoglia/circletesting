@@ -1,0 +1,13 @@
+ {
+  "granularity": "hour",
+  "intervals": [
+    {
+      "type": "absolute"
+    }
+  ],
+  "name": "string",
+  "queryName": "string",
+  "filter": {
+    "type": "selector"
+  }
+}

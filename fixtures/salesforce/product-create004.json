@@ -1,0 +1,20 @@
+{
+    "campaignType": "Native",
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 2000,
+    "campaignGoal": {
+        "index": 3,
+        "goal": null,
+        "pricingModel": "CPC",
+        "clearingMethod": "1stPrice"
+    },
+    "frequencyCap": 30,
+    "timesPer": "Month",
+    "cpmBidAmount": 2.75,
+    "primaryIabCategory": 7,
+    "secondaryIabCategories": [38, 49, 51],
+    "pixelName": "pxl",
+    "targeting": "target adults age 20-38 who live in Antarctica"
+}

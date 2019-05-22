@@ -1,0 +1,42 @@
+{
+    "id":"7b85e810504311e6b80d0e9e5e05f653",
+    "refId":14967,
+    "version":4,
+    "status":"active",
+    "publisher":"16269608ef7611e085ac12313e003071",
+    "category":12,
+    "secondaryCategories": [
+        17,
+        18
+    ],
+    "name":"ghostPublisher001 - newsletter001",
+    "description":null,
+    "tagsUrlPrefix": "https://li.example.com",
+    "sspControl": {
+        "exchangeAllow":false,
+        "targetingType":"include",
+        "applyBlocklists":null,
+        "rtbAllow":null,
+        "rtbTransparency":null,
+        "rtbFloor":null,
+        "uniqueAds":"inherit",
+        "userMatchAllow":false,
+        "demandAllocationHouse":null,
+        "demandAllocationDirect":null,
+        "tier":null,
+        "directoryExpose":false,
+        "directoryExposePublic":false,
+        "exchangeFloor":null
+    },
+    "actualInventory":0,
+    "estimatedInventory":600000,
+    "isTakeover":true,
+    "isRoadblock":true,
+    "spend":0,
+    "revenue":0,
+    "lastSeen":null,
+    "lastRendered":null,
+    "externalId":null,
+    "isSafeRtb":false,
+    "isSafeRtbV2":false
+}

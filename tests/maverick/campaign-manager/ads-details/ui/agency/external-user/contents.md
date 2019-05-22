@@ -1,0 +1,1 @@
+*ui001* ads details - basic verfication @SS-AGENCY

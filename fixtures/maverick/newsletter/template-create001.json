@@ -1,0 +1,40 @@
+{
+    "name": "mavNews",
+    "iabCategory": "IAB3: Business",
+    "additionalCategories": ["IAB2: Automotive", "IAB4: Careers"],
+    "diffAdSources": 3,
+    "adSlots": [
+        {
+            "name": "@970x250",
+            "allowExchange": true,
+            "adType": "Fixed Ratio", 
+            "ratio": "Custom",
+            "width": 970,
+            "height": 250
+        },
+        {
+            "name": "@300x250",
+            "allowExchange": false,
+            "adType": "Fixed Ratio", 
+            "ratio": "300x250"
+        },
+        {
+            "name": "@728x90", 
+            "allowExchange": true, 
+            "adType": "Fixed Ratio", 
+            "ratio": "728x90"
+        },
+        {
+            "name": "@160x600",
+            "allowExchange": false,
+            "adType": "Fixed Ratio",
+            "ratio": "160x600"
+        },
+        {
+            "name": "@Marquee Custom",
+            "allowExchange": true,
+            "adType": "Marquee",
+            "exchangeFloor": 13.50
+        }
+    ]
+}

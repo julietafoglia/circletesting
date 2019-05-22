@@ -1,0 +1,10 @@
+{
+    "name": "news",
+    "publisher": "",
+    "category": 1,
+    "secondaryCategories": [4, 5, 6, 7],
+    "sspControl": {
+        "exchangeAllow": false,
+        "uniqueAds": "advertiser"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "_isClone": false,
+    "newsletter": "",
+    "mediaType": "newsletter",
+    "sspControl": {
+      "exchangeAllow": null,
+      "rtbAllow": null,
+      "rtbFloor": null,
+      "rtbTransparency": null,
+      "exchangeFloor": null
+    },
+    "native": {
+      "collapse": "4x1",
+      "layout": "in_feed",
+      "context": "in feed"
+    },
+    "type": "native",
+    "width": null,
+    "height": null,
+    "isUniversalTag": true,
+    "name": "native",
+    "sizes": [
+      {
+        "width": 800,
+        "height": 200,
+        "floor": null,
+        "deviceTypes": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  }

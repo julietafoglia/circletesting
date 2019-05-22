@@ -1,0 +1,19 @@
+{
+    "id": "677b3b0725d911e79488068490658d14",
+    "refId": 6009,
+    "version": 3,
+    "email": "advertiserSelfService001-2017-04-20T10:55@liveintent.com",
+    "firstName": "hash",
+    "lastName": "man",
+    "lastLogin": "2017-04-20T15:22:49",
+    "lastActivity": "2017-04-20T15:22:49",
+    "meta": {
+        "advertiserIds": [
+            "63dc865025d911e79488068490658d14"
+        ]
+    },
+    "created": "2017-04-20T14:55:33",
+    "createdBy": "73b05beaa50811e68c1522000a974651",
+    "modified": "2017-04-20T14:55:33",
+    "modifiedBy": "73b05beaa50811e68c1522000a974651"
+}

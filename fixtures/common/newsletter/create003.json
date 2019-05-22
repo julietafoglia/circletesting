@@ -1,0 +1,23 @@
+{
+    "name": "news",
+    "publisher": "",
+    "description": null,
+    "category": 12,
+    "secondaryCategories": [17, 18],
+    "externalId": null,
+    "tagsUrlPrefix": null,
+    "estimatedInventory": 0,
+    "sspControl": {
+        "exchangeAllow": null,
+        "exchangeFloor": null,
+        "rtbTransparency": null,
+        "rtbFloor": null,
+        "uniqueAds": "inherit",
+        "userMatchAllow": null,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "tier": null,
+        "directoryExpose": null,
+        "directoryExposePublic": null
+    }
+}

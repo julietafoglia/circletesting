@@ -1,0 +1,328 @@
+{
+    "id": "438f57a12e4711e6a0c00e9e5e05f653",
+    "refId": 189580,
+    "version": 1,
+    "publisher": "00d0e26a5f8d11e498e21231392ea33d",
+    "newsletter": "c1ffe5c41b7211e68c1522000a974651",
+    "type": "marquee",
+    "status": "pending",
+    "name": "ad-slot",
+    "mediaType": "newsletter",
+    "externalId": "9999e5c41b7211e68c1522000a979999",
+    "position": "above the fold",
+    "tag": "",
+    "fullTag": "",
+    "urlImage": "",
+    "urlClick": "",
+    "urlUnsubscribe": "",
+    "sspFee": null,
+    "sspControl": {
+        "exchangeAllow": true,
+        "targetingType": "exclude",
+        "applyBlocklists": null,
+        "rtbAllow": true,
+        "rtbTransparency": false,
+        "rtbFloor": 12.54,
+        "uniqueAds": null,
+        "userMatchAllow": null,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "tier": null,
+        "directoryExpose": null,
+        "directoryExposePublic": null,
+        "exchangeFloor": 11.54
+    },
+    "dsps": [
+        {
+            "id": "04ea92a66a5c11e2be2a1231392ea33d",
+            "name": "EveryScreen Media",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "0a0223ce37eb11e285ce12313e003071",
+            "name": "Dobleas",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "25a1189e41f911e18dd712313e003071",
+            "name": "LiveIntent DSP",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "287411286bc611e2be2a1231392ea33d",
+            "name": "MdotM - US West Coast",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "30c4020c60db11e2803d12313e003071",
+            "name": "BidSwitch",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "48cd66d46c7311e18dd712313e003071",
+            "name": "x-ConnectionEngine (staging)",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "4dcdd0b4e0aa11e1ad3212313e003071",
+            "name": "ClickDistrict",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "52e6921e6bc611e2be2a1231392ea33d",
+            "name": "MdotM - US East Coast",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "60759fa2988911e2be2a1231392ea33d",
+            "name": "MediaMath",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "62ecc08ecd0611e18dd712313e003071",
+            "name": "Centro",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "645933b2a43e11e18dd712313e003071",
+            "name": "TapAd",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "763e33006dfe11e18dd712313e003071",
+            "name": "x-Dotomi (user matching)",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "805ae76c51ab11e18dd712313e003071",
+            "name": "Datalogix",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "861b4efe6bc611e2be2a1231392ea33d",
+            "name": "MdotM - Europe",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "8f47402c3d6411e285ce12313e003071",
+            "name": "NetMining",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "988872c6a45011e18dd712313e003071",
+            "name": "Invite Media",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "b4808e9e6bc611e2be2a1231392ea33d",
+            "name": "MdotM - Asia",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "b5fa620adcaa11e1ad3212313e003071",
+            "name": "Chango",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "b8eaa5dca2c111e2be2a1231392ea33d",
+            "name": "Zenovia",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "ce728f3a51c011e18dd712313e003071",
+            "name": "Human Demand",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "dd044cdaca0811e18dd712313e003071",
+            "name": "MdotM",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "e2103136f13511e1ad3212313e003071",
+            "name": "Digilant",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "ef0093ea034b11e2ad3212313e003071",
+            "name": "AdKnowledge",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "fc5bfcc665c211e2803d12313e003071",
+            "name": "GetSocialize",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "9f50ed20a83e11e294f21231392ea33d",
+            "name": "Test Rtb Partner",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "c2230800b72111e294f21231392ea33d",
+            "name": "Mirapost",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "555d2fb8195d11e394f21231392ea33d",
+            "name": "Crowdmob",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "adbbb62a2c5911e394f21231392ea33d",
+            "name": "Plethora Mobile",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "acc88f2866a011e394f21231392ea33d",
+            "name": "Index Exchange",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "554fdfc249b111e498e21231392ea33d",
+            "name": "Google - DBM",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "46a76b226b4711e498e21231392ea33d",
+            "name": "Pocketmath",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "6cf9674a9c1011e498e21231392ea33d",
+            "name": "TESTING RTB PARTNER",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "f4e16d7cb09911e498e21231392ea33d",
+            "name": "prod test",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "36783e42e46f11e498e21231392ea33d",
+            "name": "Yellow Hammer",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "1883e9d2fd8211e484fa1231392ea33d",
+            "name": "Google - TEST",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "b93f3b36379511e5a22b22000a974651",
+            "name": "Bidswitch Test (v4 BSW protocol)",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "237adace7e4e11e5bda622000a974651",
+            "name": "The Trade Desk",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "73f83c58b96311e5bda622000a974651",
+            "name": "AOL Platforms",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "610b9f3c025011e68c1522000a974651",
+            "name": "LiveIntent uDSP",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "a3f2366228d411e68c1522000a974651",
+            "name": "LiveRamp Onboarding",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        },
+        {
+            "id": "1",
+            "name": "First Party Data",
+            "allow": null,
+            "hide": null,
+            "floor": 0
+        }
+    ],
+    "created": "2016-06-09T13:37:09", // relative to test
+    "createdBy": "0d4918d86ef311e18dd712313e003071", // relative to test
+    "modified": "2016-06-09T13:40:22", // relative to test
+    "modifiedBy": "51048108657311e2803d12313e003071" // relative to test
+}

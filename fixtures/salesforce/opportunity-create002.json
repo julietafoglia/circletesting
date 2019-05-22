@@ -1,0 +1,20 @@
+{
+    "name": "sfOpp",
+    "type": "Agency",
+    "brand": "Ghostrider",
+    "stage": "Closed Won (IO Signed)",
+    "totalBudget": 35000.45,
+    "domain": "www.ghostrider.com",
+    "iabCategory": 7,
+    "adServer": "DART",
+    "liNumbers": "No",
+    "accountManager": {
+        "sfName": "Product Integration",
+        "firstName": "Integrations",
+        "lastName": "Team"
+    },
+    "accountExecutive": {
+        "firstName": "Integrations",
+        "lastName": "Team"
+    }
+}

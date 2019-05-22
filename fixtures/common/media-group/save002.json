@@ -1,0 +1,23 @@
+{
+    "name": "mda-grp",
+    "type": "Media Group",
+    "lotame": "",
+    "salesforceId": "",
+    "description": "Monkey!",
+    "tagsUrlPrefix": "http://li.ghostrider.com",
+    "isApiPartner": true,
+    "tier": 2,
+    "contact": {
+        "company": "Merlin-Ghostrider, Inc",
+        "emailAddress": "qa-all@liveintent.com",
+        "firstName": "Merlin",
+        "lastName": "Ghostman-Ryder",
+        "phone": "8001234567",
+        "address1": "123 Second Street",
+        "address2": "Suite 444",
+        "city": "Our Town",
+        "state": "PA",
+        "postalCode": "01234",
+        "country": "United States"
+    }
+}

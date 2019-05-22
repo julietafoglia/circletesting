@@ -1,0 +1,19 @@
+{
+    "campaignType": "Standard IAB Banners",
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 6000,
+    "campaignGoal": {
+        "index": 4,
+        "goal": null,
+        "pricingModel": "CPA",
+        "clearingMethod": "1stPrice"
+    },
+    "frequencyCap": 6,
+    "timesPer": "Day",
+    "cpmBidAmount": 10,
+    "primaryIabCategory": 26,
+    "pixelName": "pxl",
+    "targeting": "target adults age 40-68 who live in North America"
+}

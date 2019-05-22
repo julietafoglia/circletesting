@@ -1,0 +1,28 @@
+{
+    "additionalCategories": ["IAB22: Shopping"],
+    "diffAdSources": 1,
+    "adSlots": [
+        {
+            "name": "@Marquee",
+            "adType": "Marquee",
+            "allowExchange": false
+        },
+        {
+            "name": "native_prod_listing_outside_core",
+            "adType": "Native",
+            "displayType": "Product Listing",
+            "adContext": "Outside of Core Content"
+        },
+        {
+            "name": "native_prod_listing_in_article",
+            "adType": "Native",
+            "displayType": "Product Listing",
+            "adContext": "In-article"
+        },
+        {
+            "name": "native_recommendation",
+            "adType": "Native",
+            "displayType": "Recommendation"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "9c4d0f584ebb11e6b80d0e9e5e05f653",
+    "refId": 15002,
+    "version": 1,
+    "status": "active",
+    "publisher": "0148c86849ef11e68c1522000a974651",
+    "category":12,
+    "secondaryCategories": [
+        17,
+        18
+    ],
+    "name":"ghostPublisher001 - newsletter002",
+    "description": null,
+    "tagsUrlPrefix": null,
+    "sspControl": {
+        "exchangeAllow": false,
+        "targetingType":"include",
+        "applyBlocklists": null,
+        "rtbAllow": null,
+        "rtbTransparency": null,
+        "rtbFloor": null,
+        "uniqueAds":"inherit",
+        "userMatchAllow": null,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "tier": null,
+        "directoryExpose": true,
+        "directoryExposePublic": false,
+        "exchangeFloor": null
+    },
+    "actualInventory": 0,
+    "estimatedInventory": 0,
+    "spend": 0,
+    "revenue":0,
+    "lastSeen":null,
+    "lastRendered":null,
+    "externalId":null,
+    "isSafeRtb":false,
+    "isSafeRtbV2":false
+}

@@ -1,0 +1,1 @@
+*pos-credentials001* lau credentials - basic verification

@@ -1,0 +1,14 @@
+{
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 300,
+    "campaignGoal": {
+        "index": 6,
+        "goal": "CPC",
+        "pricingModel": "CPM",
+        "clearingMethod": "2ndPrice"
+    },
+    "cpmBidAmount": 0.75,
+    "maxCpmBid": 1.00
+}

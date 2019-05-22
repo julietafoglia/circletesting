@@ -1,0 +1,13 @@
+{
+    "file": "iVBORw0KGgoAAAANSUhEUgAAAtgAAABaCAMAAAC16tHNAAAAG1BMVEUFNvr///9DaPvAzP0kT/pigfuhs/3f5f6CmvzpLwilAAAEyUlEQVR4AezBgQAAAACAoP2pF6kCAAAAAAAAAAAAAAAAAAAAAJidc9tRnAfCIPTB9vs/8Y+yGph0UtgSw3+Tr252IR1sacpNxweuRFhmmsUkaIuK27dZayhqkLgA5kyU0OH3H/ogUaz1Z5SP+KLVw+e9ueUrqNntMoi8M7bTqJer7UymrFEeX9K6YTvcHVfaVsbei/1Po+4j0yyHb6/sYJtv+oy0CLNsm1bja+OxtzR7tpPHqGd3OEhcDHsY8etV/b6PcX8QxeteE7n5V8zexlnPkpkP7fi+O9lltvBdwrZNox320KTXe45ZfLBMn3k9jm/l0es8BNnt2qj0brcXceKmVbvymcPLuz3+vHPHwTJq63licStBV0N0EqCoVO7J2xH/65QdrxFV2vFpVN8G7FURAytjMnkzqVO1/tedc/DdZlF2vZQt2FGg7dKfUTKkD/vg28Tm3dk0hyBxAUCRXKt1ffdqkIh/PF/TsUTZlfZ8t1DCniv2P4s9KOfuqnnn3mhiRAl7PgA+LEWCr6z0jp8MsJZ+BQklbA6kV0V4IHqbXKEZdmjJoeIoQYxQwq72+Np0H8++lUXMgffEdKAlj6atEkeEEna1x8pSDD3Fldm3Bl77fIqdnx4bjQu+Xyhhgz3txEaDabdqNnjNpQiIHRAE9wslbJhgqD4Gr37PzWavSUwYRJyWYeAKJWyeEo6ymc+cvWaz2WuuMqrYdxZ7wP1CCZunisf9QdvsinTY2w9mF6+JxMttJ/b8yUBolwgIGXSyxVvf/rHFD2rVayZQ2v4UOyS2WJ4Mg4QNavN5FTabvS7+Jhj7S+wuscVawuZpPDwb2Uesm41eQ8uVDmJrhUbAbAJtEoVs7cPiZtn4zC+ZzV7Pl3UezXWJLT78o/uZXFmStHk5mzgxm70+NDNOvB6P5kKliPhg8aIVc+AoIp3mBbPJa2ioTDT6ax/hsthCc33T442tLqnzaV4wG7yenlKPtt36ElvTfaL4Mla9Nj61y6dsZx/aY/0h90EbaZmtb//fdO5HsbVAIxYVNDona1yOT4mnnkytcV64/fvC8flDcLua2CJJLPAabua9SROvfWI2/JRg9xE/HRvlYUF7RUSxAbFe9VvYT5crXtMuViYe7MZWsr38zSL06Iher1e17PVt3WzKxfFqUgcNBPvHXlfWJ9jY6w/N7vfOOw/5itCqI4sXm5p4k695vW42H67k52DI5UKrjqzd+pIIe01NrFcixnU9XhA6YZAs3XqNzV5/ZnbUXzlx3vQqNInNezSWM2Evl8DrdbN5+JQ5Rv3EmchpJTKq1/Wqz08ksNefml1MBoNDv5B9MSDj8k+rryvTSVPwem42fNCY98e1Z/UKFA/WvYaU3Q1ujEWv180GY0t/4u2+FaHl9PCXtoSf5ch4OyDAa1i2Z6KfWFzfq8WUUCVSxOGgemAm+1uXDAsDe9feyKOwx/AobUfZiyJUiWzKnhLnB8O2l9mmR3qNr8T7uqOlxa9WPGCk9WGxhfldXmtOpGqPZF1wr7T4xtdLZdCDwY6eN6FKZFHsPdbqKfVvkKutxK9Al9biE8JyjDZG2u2bbK20MSzmcRB2Mf5rD44FAAAAAAb5W09jRzUAAAAAAAAAAAAAAAAAABDgkRkTAEy/2wAAAABJRU5ErkJggg==",
+    "name": "cre",
+    "isServices": false,
+    "externalId": "monkey12345",
+    "frequencyCapPeriod": "daily",
+    "frequencyCapCount": 4,
+    "bidderVisibility": false,
+    "clickUrl": "https://www.surveymonkey.com/",
+    "iabAttributes": ["1", "5"],
+    "urlTracking1": "https://www.example.com/tracking1",
+    "urlTracking2": "https://www.example.com/tracking2"
+}

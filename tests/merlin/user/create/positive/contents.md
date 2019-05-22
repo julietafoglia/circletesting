@@ -1,0 +1,1 @@
+*pos-create001* user create - all valid fields

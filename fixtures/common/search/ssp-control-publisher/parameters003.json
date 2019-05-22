@@ -1,0 +1,15 @@
+{
+    "number": 100,
+    "conditions": [
+        { "field": "uniqueAds", "value": "advertiser" },
+        { "mode": "and", "conditions": [
+                { "field": "userMatchAllow", "value": "false" }
+            ] 
+        },
+        { "mode": "or", "conditions": [
+                { "field": "uniqueAds", "value": "inherit" },
+                { "mode": "and", "field": "userMatchAllow", "value": "true" }
+            ]
+        }
+    ]
+}

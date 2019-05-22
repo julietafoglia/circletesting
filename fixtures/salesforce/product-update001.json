@@ -1,0 +1,15 @@
+{
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 1200,
+    "campaignGoal": {
+        "index": 1,
+        "goal": "MaxCTR",
+        "pricingModel": "CPM",
+        "clearingMethod": "1stPrice"
+    },
+    "cpmBidAmount": 2.75,
+    "primaryIabCategory": 5,
+    "secondaryIabCategories": [39, 45]
+}

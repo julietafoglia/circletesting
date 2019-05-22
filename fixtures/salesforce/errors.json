@@ -1,0 +1,19 @@
+{
+    "nullIabCategoryError": "LiveIntent.LSD lookup failed for IAB category of name: null",
+    "opportunitySyncError": "there was an error syncing Opportunity",
+    "campaignSyncError": "LiveIntent.Campaign could not be created/updated in LSD",
+    "missingLfmAgencyIdError": "The \"Agency LFM ID\" field must be populated on the account. Please fill out the \"Agency LFM ID\" on the account level or request that an agency be created in LFM",
+    "invalidBudgetError": "Budget cannot be 0.",
+    "missingAccNameError": "Account Name: You must enter a value",
+    "missingWebsiteError": "Website: You must enter a value",
+    "missingCampaignNameError": "Campaign Name: You must enter a value",
+    "missingFlightStartError": "Flight Start: You must enter a value",
+    "missingEndDateError": "End Date: You must enter a value",
+    "missingMaxCpmBidError": "Please fill in value for Max CPM Bid",
+    "liTktMissingAdServerError": "Please populate the Ad Server of Record field on the opportunity",
+    "liTktMissingBidAmntError": "Please populate the Bid Amount value on the OpportunityProduct",
+    "liTktMissingDomainError": "Please populate the Domain field on the opportunity",
+    "liTktMissingIabCatError": "Please populate the IAB Category field on the opportunity",
+    "liTktMissingLINumbersError": "Please populate the LiveIntent's Numbers field on the opportunity",
+    "liTktMissingAccManager": "Account Manager field on the Opportunity must be populated"
+}

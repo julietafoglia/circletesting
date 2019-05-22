@@ -1,0 +1,1 @@
+*search001* search for linked strategies - invalid newsletter id

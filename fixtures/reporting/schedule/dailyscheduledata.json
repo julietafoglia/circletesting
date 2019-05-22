@@ -1,0 +1,10 @@
+{
+    "queryId": 0,
+    "type": "daily",
+    "timeOfDay": "morning",
+    "startDate": "2016-12-29",
+    "endDate": "2016-12-31",
+    "recipients": ["julieta.foglia@valtech.com"],
+    "weekends": "true",
+    "lastDayOfMonth": "true"
+}

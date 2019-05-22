@@ -1,0 +1,81 @@
+{
+    "version": 2,
+    "mediaGroup": "",
+    "esp": null,
+    "category": 20,
+    "admin": null,
+    "executive": null,
+    "name": "pub",
+    "description": "A ghostPublisher update via Merlin",
+    "externalId": "G2016",
+    "domain": "example.com",
+    "tagsUrlPrefix": "https://li.cbslocal.com",
+    "emailTagReplacement": "ghostEmailTag",
+    "placementTagReplacement": "ghostPlacementTag",
+    "contactEmails": [
+        "qa-all@liveintent.com"
+    ],
+    "categories": [12, 13],
+    "blocklistCategories": [],
+    "targetedAdvertisers": [],
+    "targetedDomains": [ "www.liveintent.com" ],
+    "iabCreativeAttribute": [],
+    "keyValuesCount": 9,
+    "keyValues": {
+        "city1": [
+            "xyz"
+        ],
+        "city2": [
+            "xyz"
+        ],
+        "city3": [
+            "xyz"
+        ],
+        "country1": [
+            "xyz"
+        ],
+        "country2": [
+            "xyz"
+        ],
+        "country3": [
+            "xyz"
+        ],
+        "state1": [
+            "xyz"
+        ],
+        "state2": [
+            "xyz"
+        ],
+        "state3": [
+            "xyz"
+        ]
+    },
+    "contact": {
+        "company": "Ghostrider, Inc.",
+        "email": "qa-all@liveintent.com",
+        "firstName": "Ghost",
+        "lastName": "Rider",
+        "phone": "1234567890",
+        "address1": "123 Main St.",
+        "address2": "456 Main St.",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "12345",
+        "country": "United States"
+    },
+    "domainTargetingType": "include",
+    "sspControl": {
+        "targetingType": "exclude",
+        "applyBlocklists": false,
+        "rtbAllow": false,
+        "rtbTransparency": true,
+        "rtbFloor": 0.7,
+        "uniqueAds": "advertiser",
+        "userMatchAllow": true,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "tier": 1,
+        "directoryExpose": true,
+        "directoryExposePublic": true
+    }
+}

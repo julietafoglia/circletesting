@@ -1,0 +1,12 @@
+{
+    "name": "cre",
+    "isServices": false,
+    "externalId": "monkey12345",
+    "frequencyCapPeriod": "daily",
+    "frequencyCapCount": 4,
+    "bidderVisibility": false,
+    "clickUrl": "https://www.surveymonkey.com/",
+    "iabAttributes": ["1", "5"],
+    "urlTracking1": "https://www.example.com/tracking1",
+    "urlTracking2": "https://www.example.com/tracking2"
+}

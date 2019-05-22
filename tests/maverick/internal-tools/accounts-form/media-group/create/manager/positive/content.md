@@ -1,0 +1,1 @@
+*pos-create001* create two contract type account media-group with selected account @Manager

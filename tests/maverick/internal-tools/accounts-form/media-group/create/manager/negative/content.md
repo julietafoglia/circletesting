@@ -1,0 +1,1 @@
+*neg-create001* attempt create media-group with wrong name, salesforceId and cname, already linked salesforceID account @Manager

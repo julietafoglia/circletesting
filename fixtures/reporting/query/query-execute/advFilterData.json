@@ -1,0 +1,83 @@
+{
+  "query": {
+    "dataSource": {
+      "type": "union",
+      "dataSources": [
+        "custom_exact_dsp",
+        "custom_aggregates_exact"
+      ]
+    },
+    "timeZone": "America/New_York",
+    "queryType": "timeseries",
+    "intervals": [
+      {
+        "type": "absolute",
+        "start": "2017-11-01T00:00:00.000Z",
+        "end": "2018-05-30T00:00:00.000Z"
+      }
+    ],
+    "granularity": "day",
+    "postAggregations": [
+      {
+        "type": "javascript",
+        "name": "CTR",
+        "fieldNames": [
+          "Clicks",
+          "Impressions"
+        ],
+        "function": "function(clicks, impressions) { return impressions > 0 ? (clicks/impressions) : 0; };"
+      },
+      {
+        "type": "javascript",
+        "name": "GrossECPC",
+        "fieldNames": [
+          "Advertiser Spent",
+          "Clicks"
+        ],
+        "function": "function(advertiser_spent, clicks) { return clicks ? (advertiser_spent/clicks) : 0; };"
+      },
+      {
+        "type": "javascript",
+        "name": "GrossECPA",
+        "fieldNames": [
+          "Advertiser Spent",
+          "Conversions"
+        ],
+        "function": "function(advertiser_spent, conversions) { return conversions ? (advertiser_spent/conversions) : 0; };"
+      }
+    ],
+    "aggregations": [
+      {
+        "fieldName": "impressions",
+        "type": "longSum",
+        "name": "Impressions"
+      },
+      {
+        "fieldName": "clicks",
+        "type": "longSum",
+        "name": "Clicks"
+      },
+      {
+        "fieldName": "conversions",
+        "type": "longSum",
+        "name": "Conversions"
+      },
+      {
+        "fieldName": "advertiser_spent",
+        "type": "doubleSum",
+        "name": "Advertiser Spent"
+      }
+    ],
+    "filter": {
+      "type": "and",
+      "fields": [
+        {
+          "type": "selector",
+          "dimension": "line_item_id",
+          "value": "232844"
+        }
+      ]
+    }
+  },
+  "type": "advertiser"
+}

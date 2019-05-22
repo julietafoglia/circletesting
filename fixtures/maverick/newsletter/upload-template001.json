@@ -1,0 +1,26 @@
+{
+    "template001": {
+        "category": 1,
+        "exchangeAllow": true
+    },
+    "template002": {
+        "category": 3,
+        "exchangeAllow": false
+    },
+    "template003": {
+        "category": 7,
+        "exchangeAllow": true
+    },
+    "template004": {
+        "category": 9,
+        "exchangeAllow": false
+    },
+    "template005": {
+        "category": 6,
+        "exchangeAllow": true
+    },
+    "template006": {
+        "category": 8,
+        "exchangeAllow": false
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "template001": {
+        "adSlots": {
+            "adSlot001": {
+                "adType": "image",
+                "width": 300,
+                "height": 250
+            }
+        }
+    }
+}

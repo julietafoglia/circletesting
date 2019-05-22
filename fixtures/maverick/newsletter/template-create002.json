@@ -1,0 +1,12 @@
+{
+    "name": "mavNews",
+    "iabCategory": "IAB20: Travel",
+    "adSlots": [
+        {
+            "name": "@300x250",
+            "adType": "Fixed Ratio",
+            "allowExchange": true,
+            "ratio": "300x250"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+*ui001* deals details - verify ui elements @MANAGER

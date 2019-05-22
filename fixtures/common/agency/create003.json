@@ -1,0 +1,21 @@
+{
+    "type":"Advertiser Agency",
+    "adServingFee":0.5,
+    "agreedPoweredBy":true,
+    "agreedAdChoices":true,
+    "agreedUserMatching":false,
+    "dspFee":25,
+    "sspControl":
+    {
+        "rtbAllow":true,
+        "rtbTransparency":true,
+        "rtbFloor":0.5
+    },
+    "gdprCompliance":"data_open",
+    "agencyType":"Agency",
+    "name":"test",
+    "salesforceId": null,
+    "description": null,
+    "feeStructure":"Monthly Minimum",
+    "liPaymentTerms":"Net 30"
+}

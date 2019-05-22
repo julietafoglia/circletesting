@@ -1,0 +1,37 @@
+{
+    "id": "", 
+    "refId": "", 
+    "version": "", 
+    "status": "active",
+    "category": 13,
+    "categoryName": "Personal Finance",
+    "admin": null,
+    "executive": null,
+    "name": "adv",
+    "description": null,
+    "domain": "ghostrider.com",
+    "hasExchange": false,
+    "suppressCompetitive": false,
+    "houseAd": true,
+    "owner": {
+        "type": "",
+        "id": "",
+        "refId": ""
+    },
+    "categories": [
+        13
+    ],
+    "targetingType": "exclude",
+    "targetedPublishers": null,
+    "targetedDomains": null,
+    "contract": {
+        "status": "active",
+        "dspFee": null
+    },
+    "externalId": null,
+    "liveramp": null,
+    "created": "2016-06-07T22:36:29", 
+    "createdBy": "51048108657311e2803d12313e003071", 
+    "modified": "2016-06-07T22:36:29", 
+    "modifiedBy": "51048108657311e2803d12313e003071" 
+}

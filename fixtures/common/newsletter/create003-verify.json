@@ -1,0 +1,21 @@
+{
+    "category": 12,
+    "secondaryCategories": [17, 18],
+    "externalId": null,
+    "description": null,
+    "tagsUrlPrefix": null,
+    "estimatedInventory": 0,
+    "sspControl": {
+        "exchangeAllow": false,
+        "exchangeFloor": null,
+        "rtbAllow": null,
+        "rtbTransparency": null,
+        "rtbFloor": null,
+        "uniqueAds": "inherit",
+        "userMatchAllow": null,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "directoryExpose": false,
+        "directoryExposePublic": false
+    }
+}

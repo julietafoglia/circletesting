@@ -1,0 +1,37 @@
+{
+    "id": "b18aa8a3688511e6b80d0e9e5e05f653",
+    "refId":6623,
+    "version":2,
+    "type":"Agency",
+    "name":"agc",
+    "description":"Second ghostrider test agency test",
+    "status":"pending",
+    "advertisers":null,
+    "manager":"73b05beaa50811e68c1522000a974651",
+    "managerName":"QA-All user",
+    "managerEmail":"qa-all@liveintent.com",
+    // "salesforceId":"IfXoClhxagkLVSWDMq",
+    "isApiPartner":true,
+    "contact": {
+        "company":"Ghostrider Labs",
+        "emailAddress":"zonkey.monkey@ghostrider.com",
+        "firstName":"Zonkey",
+        "lastName":"Monkey",
+        "phone":"2125551234",
+        "address1":"123 Main Street",
+        "address2":"Suite 7",
+        "city":"Schenectady",
+        "state":"NY",
+        "postalCode":"12345",
+        "country":"United States"
+    },
+    "contract": {
+        "selfServe":false,
+        "status":"active",
+        "dspFee":null
+    },
+    "created":"2016-08-22T16:30:10",
+    "createdBy":"cca3c07e0e0611e584fa1231392ea33d",
+    "modified":"2016-08-22T16:30:10",
+    "modifiedBy":"cca3c07e0e0611e584fa1231392ea33d"
+}

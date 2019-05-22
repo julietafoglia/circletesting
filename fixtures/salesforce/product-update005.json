@@ -1,0 +1,21 @@
+{
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 12400,
+    "campaignGoal": {
+        "index": 7,
+        "goal": "CPA",
+        "pricingModel": "CPM",
+        "clearingMethod": "2ndPrice"
+    },
+    "pacing": "Even",
+    "cpmBidAmount": 1.45,
+    "maxCpmBid": 2.93,
+    "frequencyCap": 14,
+    "timesPer": "Week",
+    "primaryIabCategory": 5,
+    "secondaryIabCategories": [29, 33],
+    "pixelName": "pxl",
+    "targeting": "target individuals older than 25yrs"
+}

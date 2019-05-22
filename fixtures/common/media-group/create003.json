@@ -1,0 +1,27 @@
+{
+    "name": "mda-grp",
+    "type": "Media Group",
+    "lotame": null,
+    "salesforceId": null,
+    "description": null,
+    "tagsUrlPrefix": null,
+    "tier": "1",
+    "contact": {
+        "company": "Ghostrider, Inc",
+        "emailAddress": "qa-all@liveintent.com",
+        "firstName": null,
+        "lastName": null,
+        "phone": "5551234567",
+        "address1": "123 Main Street",
+        "address2": null,
+        "city": "Anytown",
+        "state": "NY",
+        "postalCode": "12345",
+        "country": "United States"
+    },
+    "contractType": "Monetization",
+    "feeStructure": "Monthly Minimum",
+    "liPaymentTerms": "Net 30",
+    "dspFee": 2,
+    "sspFee": 1
+}

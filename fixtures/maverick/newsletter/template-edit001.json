@@ -1,0 +1,29 @@
+{
+    "additionalCategories": ["IAB8: Food & Drink"],
+    "diffAdSources": 3,
+    "adSlots": [
+        {
+            "name": "@300x600", 
+            "adType": "Fixed Ratio",
+            "allowExchange": true,
+            "ratio": "300x600"
+        },
+        {
+            "name": "@970x250", 
+            "adType": "Fixed Ratio",
+            "allowExchange": false, 
+            "ratio": "300x250"
+        },
+        {
+            "name": "@Marquee", 
+            "adType": "Marquee",
+            "allowExchange": false
+        },
+        {
+            "name": "native_prod_listing_outside_core",
+            "adType": "Native",
+            "displayType": "Product Listing",
+            "adContext": "Outside of Core Content"
+        }
+    ]
+}

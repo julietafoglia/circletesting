@@ -1,0 +1,19 @@
+{
+    "name": "sfOpp",
+    "type": "Direct Advertiser",
+    "stage": "Closed Won (IO Signed)",
+    "totalBudget": 10000.00,
+    "domain": "www.liveintenteng.com",
+    "iabCategory": 4,
+    "adServer": "LiveIntent",
+    "liNumbers": "Yes",
+    "accountManager": {
+        "sfName": "Product Integration",
+        "firstName": "Integrations",
+        "lastName": "Team"
+    },
+    "accountExecutive": {
+        "firstName": "Integrations",
+        "lastName": "Team"
+    }
+}

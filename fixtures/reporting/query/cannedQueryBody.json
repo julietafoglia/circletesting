@@ -1,0 +1,20 @@
+{
+  "granularity": "hour",
+  "intervals": [
+    {
+      "type":"absolute",
+                    "start": "2017-06-01",
+        			"end": "2017-06-31"
+    }
+  ],
+  "name": "Advertiser by Date",
+  "queryName": "test",
+  "filter": {
+   "type": "not",
+                "field": {
+                    "type": "selector",
+                    "dimension": "campaign_id",
+                    "value": "1118"
+  }
+}
+}

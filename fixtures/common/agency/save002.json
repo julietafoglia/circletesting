@@ -1,0 +1,20 @@
+{
+    "name": "agc",
+    "salesforceId": "50130000000015D",
+    "description": "Second ghostrider test agency test",
+    "isApiPartner": true,
+    "version": 2,
+    "contact": {
+        "company": "Ghostrider Labs",
+        "firstName": "Zonkey",
+        "lastName": "Monkey",
+        "emailAddress": "zonkey.monkey@ghostrider.com",
+        "phone": "2125551234",
+        "address1": "123 Main Street",
+        "address2": "Suite 7",
+        "city": "Schenectady",
+        "state": "NY",
+        "postalCode": "12345",
+        "country": "United States"
+    }
+}

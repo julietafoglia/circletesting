@@ -1,0 +1,17 @@
+{
+    "externalId": null,
+    "description": null,
+    "tagsUrlPrefix": null,
+    "sspControl": {
+        "exchangeAllow": false,
+        "exchangeFloor": null,
+        "rtbAllow": null,
+        "rtbTransparency": null,
+        "rtbFloor": null,
+        "userMatchAllow": null,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "directoryExpose": false,
+        "directoryExposePublic": false
+    }
+}

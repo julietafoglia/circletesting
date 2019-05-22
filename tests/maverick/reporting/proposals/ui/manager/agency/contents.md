@@ -1,0 +1,1 @@
+*ui001* proposals details - verify ui elements @MANAGER

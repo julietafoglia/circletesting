@@ -1,0 +1,24 @@
+{
+    "template001": {
+        "adSlots": {
+            "native_in_feed": {
+                "adType": "native"
+            },
+            "native_recommendation": {
+                "adType": "native"
+            },
+            "native_prod_listing_in_article": {
+                "adType": "native"
+            },
+            "native_prod_listing_outside": {
+                "adType": "native"
+            },
+            "native_text_ad_in_article": {
+                "adType": "native"
+            },
+            "native_text_ad_in_outside": {
+                "adType": "native"
+            }
+        }
+    } 
+}

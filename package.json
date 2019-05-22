@@ -1,0 +1,56 @@
+{
+  "name": "ghostrider",
+  "version": "0.0.5",
+  "description": "LiveIntent Multi-Platfom JavaScript Testing Framework",
+  "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiveIntent/ghostrider.git"
+  },
+  "author": "LiveIntent QA Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiveIntent/ghostrider/issues"
+  },
+  "homepage": "https://github.com/LiveIntent/ghostrider#readme",
+  "dependencies": {
+    "ajv": "^5.0.0",
+    "chai": "^3.5.0",
+    "chance": "^1.0.4",
+    "chromedriver": "^2.46.0",
+    "geckodriver": "^1.16.2",
+    "gulp": "^4.0.0",
+    "gulp-help": "github:chmontgomery/gulp-help#gulp4",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-mocha": "^6.0.0",
+    "gulp-sequence": "^0.4.6",
+    "jsonfile": "^2.4.0",
+    "mocha-circleci-reporter": "0.0.3",
+    "mocha-multi": "^1.0.1",
+    "moment": "^2.13.0",
+    "prettyjson": "^1.1.3",
+    "selenium-webdriver": "^3.6.0",
+    "supertest": "^4.0.2",
+    "supertest-as-promised": "^2.0.2",
+    "validator": "^5.5.0",
+    "xlsx": "^0.8.3",
+    "yargs": "^4.7.1"
+  },
+  "peerDependencies": {
+    "mocha": "3.0.0 - 5.x.x"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-mocha": "^4.11.0",
+    "gulp": "^4.0.0",
+    "gulp-eslint": "^4.0.2",
+    "mocha": "^5.2.0",
+    "mocha-parallel-tests": "^2.0.6-alpha.3"
+  },
+  "scripts": {
+    "pretest": "gulp setup --env=${NODE_ENV}",
+    "test": "env SELENIUM_BROWSER=chrome JUNIT_REPORT_PATH=${ROOT_PATH}/results/maverick/report-smoke.xml NODE_ENV=${NODE_ENV} ROOT_PATH=${ROOT_PATH} ./node_modules/.bin/mocha-parallel-tests tests/maverick/**/*.js --grep \"<SMOKI>\" --max-parallel 4 --reporter mocha-circleci-reporter",
+    "posttest": "gulp teardown --env=${NODE_ENV}"
+  }
+}

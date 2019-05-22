@@ -1,0 +1,16 @@
+{
+    "campaignType": "Marquee",
+    "name": "sfCam",
+    "liveDate": "",
+    "endDate": "",
+    "budget": 3000,
+    "campaignGoal": {
+        "index": 1,
+        "goal": "MaxCTR",
+        "pricingModel": "CPM",
+        "clearingMethod": "1stPrice"
+    },
+    "cpmBidAmount": 3,
+    "primaryIabCategory": 2,
+    "secondaryIabCategories": [27]
+}

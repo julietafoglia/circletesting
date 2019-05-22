@@ -1,0 +1,8 @@
+{
+    "name": "mavPub",
+    "category": "IAB2: Automotive",
+    "domain": "liveintent.com",
+    "cname": "rd.rdlisr.com",
+    "cnameProtocol": "http",
+    "esp": "Recontek"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "mavPub",
+    "category": "IAB2: Automotive",
+    "domain": "liveintent.com",
+    "cname": "rd.rdlisr.com",
+    "cnameProtocol": "https",
+    "esp": "Mailchimp",
+    "kvps": {
+        "key1": "value",
+        "key2": "value",
+        "key3": "value",
+        "key4": "value",
+        "key5": "value"
+    },
+    "creative": {
+        "name": "Fallback@728x90",
+        "location": "",
+        "clickUrl": "https://www.google.com"
+    },
+    "label": "Demand Blocking Publisher",
+    "iabBlacklist": ["IAB1: Arts & Entertainment", "IAB3: Business"],
+    "isWhitelist": true,
+    "exchangeAdvertisers": [
+        "google.com",
+        "facebook.com",
+        "reddit.com"
+    ],
+    "rtbAdvertisers": [
+        "liveintent.com",
+        "wallmart.com",
+        "nytimes.com"
+    ]
+}

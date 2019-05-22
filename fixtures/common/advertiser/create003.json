@@ -1,0 +1,17 @@
+{
+    "owner": {
+        "type": "",
+        "id": ""
+    },
+    "category": 13,
+    "categories": [ 13, 14, 15 ],
+    "name": "adv",
+    "description": "",
+    "externalId": "Erh7jd23jpiDR",
+    "liveramp": "pU81rTsn3",
+    "domain": "ghostrider.com",
+    "targetingType": "exclude",
+    "suppressCompetitive": false,
+    "targetedPublishers": null,
+    "targetedDomains": [ "example1.com", "example2.com" ]
+}

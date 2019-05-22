@@ -1,0 +1,1 @@
+*pos-edit001* Buyer Seat Edit - Edit a Buyer Seat Verification

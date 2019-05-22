@@ -1,0 +1,16 @@
+{
+    "geos": [
+        { "type": "country", "id": 31 },
+        { "type": "country", "id": 71 },
+        { "type": "country", "id": 132 },
+        { "type": "region", "id": 275 },
+        { "type": "region", "id": 5 },
+        { "type": "region", "id": 31 },
+        { "type": "metro", "id": 72 },
+        { "type": "metro", "id": 198 },
+        { "type": "metro", "id": 262 },
+        { "type": "city", "id": 46 },
+        { "type": "city", "id": 10 }
+    ],
+    "geoTargetingType": "include"
+}

@@ -1,0 +1,9 @@
+{
+    "queryId": 0,
+    "type": "test",
+    "timeOfDay": "test",
+    "startDate": "test",
+    "endDate": "test",
+    "recipients": ["test"],
+    "weekends": "test"
+}

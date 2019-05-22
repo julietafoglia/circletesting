@@ -1,0 +1,39 @@
+{
+    "id":49117,
+    "version":1,
+    "status":"active",
+    "advertiser":"",
+    "name":"io",
+    "budget":null,
+    "budgetAllocated":0,
+    "spend":0,
+    "impressions":0,
+    "startDate":"2016-05-15",
+    "endDate":"2020-05-15",
+    "admin": {
+        "firstName":"Christine",
+        "lastName":"Hendricks",
+        "hash":"0d4918d86ef311e18dd712313e003071"
+    },
+    "executive": {
+        "firstName":"Dash",
+        "lastName":"Teter",
+        "hash":"edba695a69d911e08db512313b0454a7"
+    },
+    "trafficker": {
+        "firstName":"Christine",
+        "lastName":"Hendricks",
+        "hash":"0d4918d86ef311e18dd712313e003071"
+    },
+    "referenceNumber":null,
+    "agencyCampaign":null,
+    "adServer":null,
+    "paymentTerms":null,
+    "isFallback":false,
+    "externalId":null,
+    "isUnlimitedBudget":true,
+    "created":"2016-08-02T15:37:36",
+    "createdBy":"cca3c07e0e0611e584fa1231392ea33d",
+    "modified":"2016-08-02T15:37:36",
+    "modifiedBy":"cca3c07e0e0611e584fa1231392ea33d"
+}

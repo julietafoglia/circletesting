@@ -1,0 +1,34 @@
+{
+	"meta": {
+			"reportType": "lau360",
+			"filters": [
+					{
+							"dimension": "advertiser_id",
+							"type": "include",
+							"values": [
+									"44",
+									"18317",
+									"11123"
+							]
+					}
+			],
+			"queryRange": {
+					"interval": "WTD",
+					"startDate": null,
+					"endDate": null
+			},
+			"splits": [
+					"Campaign ID"
+			],
+			"granularity": "day",
+			"metrics": [
+					"Impressions",
+					"Clicks",
+					"Conversions"
+			],
+			"campaignType": "dsp"
+	},
+	"storage": "athena",
+	"type": "advertiser",
+	"queryName": "d3"
+}

@@ -1,0 +1,18 @@
+<testsuites name="Bootstrap Teardown Report">
+  <testsuite name="[BOOTSTRAP-TEARDOWN] demand &gt;&gt;&gt;" tests="4" errors="0" failures="0" skipped="0" timestamp="2019-05-10T13:11:34" time="13.023">
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] demand &gt;&gt;&gt;" name="agency001 status should be deleted">
+    </testcase>
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] demand &gt;&gt;&gt;" name="agency002 status should be deleted">
+    </testcase>
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] demand &gt;&gt;&gt;" name="mediaGroup001 status should be deleted" time="0.001">
+    </testcase>
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] demand &gt;&gt;&gt;" name="qa-all advertiser metadata should be reset" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="[BOOTSTRAP-TEARDOWN] inventory &gt;&gt;&gt;" tests="2" errors="0" failures="0" skipped="0" timestamp="2019-05-10T13:11:47" time="5.305">
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] inventory &gt;&gt;&gt;" name="mediaGroup001 status should be deleted">
+    </testcase>
+    <testcase classname="../bootstrap/.[BOOTSTRAP-TEARDOWN] inventory &gt;&gt;&gt;" name="qa-all media-group metadata should be reset">
+    </testcase>
+  </testsuite>
+</testsuites>

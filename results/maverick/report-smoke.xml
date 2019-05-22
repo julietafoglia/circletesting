@@ -1,0 +1,64 @@
+<testsuites name="Mocha Tests">
+  <testsuite name=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" tests="8" errors="0" failures="1" skipped="0" timestamp="2019-05-10T17:36:36" time="2.415">
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should login to maverick" time="12.36">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate to inventory library page" time="6.375">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should show expected element after filtering table">
+      <failure message="Waiting for element to be located By(css selector, .overflow)
+Wait timed out after 40003ms"></failure>
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should show table after removing filter added" time="11.867">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Next table pages" time="7.526">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Previous table pages" time="6.747">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Last table pages" time="6.559">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory Publisher &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough First table pages" time="6.757">
+    </testcase>
+  </testsuite>
+  <testsuite name=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" tests="10" errors="0" failures="2" skipped="0" timestamp="2019-05-10T17:36:39" time="41.473">
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should login to maverick" time="12.013">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate to inventory library page" time="1.43">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should show Newsletter table" time="2.972">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should show expected element after filtering table">
+      <failure message="Waiting for element to be located By(css selector, .overflow)
+Wait timed out after 40017ms"></failure>
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should show table after removing filter added" time="1.527">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Next table pages" time="1.421">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Previous table pages" time="1.478">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough Last table pages" time="1.493">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate trough First table pages" time="1.582">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - Media group inventory library &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should access Media Group detail page">
+      <failure message="Waiting for element to be located By(css selector, .overflow)
+Wait timed out after 40020ms"></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" tests="6" errors="0" failures="1" skipped="0" timestamp="2019-05-10T17:37:20" time="0.001">
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should login to maverick" time="13.373">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate to inventory library page" time="46.217">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should display all inventory library page elements" time="5.662">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should navigate to publisher create form" time="7.307">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should display all Create Publisher form elements" time="28.831">
+    </testcase>
+    <testcase classname=" &lt;INVE&gt; {{MAVERICK}} inventory manager - inventory library Publisher Create Detail Page &gt;&gt;&gt; (+) basic ui validation &gt;&gt;&gt;" name="should access Publisher detail page">
+      <failure message="Waiting until element is visible
+Wait timed out after 40033ms"></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

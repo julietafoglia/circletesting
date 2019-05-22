@@ -1,0 +1,1 @@
+*ui001* forecasting details - verify ui elements @MANAGER

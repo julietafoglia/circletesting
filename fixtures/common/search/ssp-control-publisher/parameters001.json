@@ -1,0 +1,18 @@
+{
+    "orderBy": [
+        "rtbFloor"
+    ],
+    "sort": "desc",
+    "number": 100,
+    "conditions": [
+        { "field": "targetingType", "value": "include" },
+        { "mode": "or", "conditions":[
+                { "field": "targetingType", "value": "exclude" },
+                { "mode": "and", "field": "uniqueAds", "value": "off" }
+            ]
+        }
+    ],
+    "return": [
+        "uniqueAds", "publisherId", "rtbFloor", "targetingType", "userMatchAllow"
+    ]
+}

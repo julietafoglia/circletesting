@@ -1,0 +1,11 @@
+{
+    "budget": null,
+    "startDate": null,
+    "endDate": null,
+    "referenceNumber": null,
+    "agencyCampaign": null,
+    "adServer": null,
+    "paymentTerms": null,
+    "externalId": null,
+    "isUnlimitedBudget": true
+}

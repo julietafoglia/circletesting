@@ -1,0 +1,66 @@
+{
+    "esp": null,
+    "category": 20,
+    "name": "pub",
+    "description": "A ghostPublisher update via Merlin",
+    "externalId": "G2016",
+    "domain": "example.com",
+    "tagsUrlPrefix": "http://li.cbslocal.com",
+    "emailTagReplacement": "ghostEmailTag",
+    "placementTagReplacement": "ghostPlacementTag",
+    "contactEmails": [
+        "email@ghostrider.com"
+    ],
+    "categories": [15],
+    "blocklistCategories": null,
+    "targetedDomains": [ "www.liveintent.com" ],
+    "iabCreativeAttribute": null,
+    "keyValuesCount": 9,
+    "keyValues": {
+        "city1": [
+            "xyz"
+        ],
+        "city2": [
+            "xyz"
+        ],
+        "country1": [
+            "xyz"
+        ],
+        "country2": [
+            "xyz"
+        ],
+        "state1": [
+            "xyz"
+        ],
+        "state2": [
+            "xyz"
+        ]
+    },
+    "contact": {
+        "company": "Ghostrider, Inc.",
+        "email": "qa-all@liveintent.com",
+        "firstName": "GhostPublisher",
+        "lastName": "Rider",
+        "phone": "9874563210",
+        "address1": "123 Cross St.",
+        "city": "San Franscisco",
+        "state": "CA",
+        "postalCode": "45678",
+        "country": "United States"
+    },
+    "domainTargetingType": "exclude",
+    "sspControl": {
+        "targetingType": "exclude",
+        "applyBlocklists": false,
+        "rtbAllow": false,
+        "rtbTransparency": true,
+        "rtbFloor": 0.8,
+        "uniqueAds": "advertiser",
+        "userMatchAllow": false,
+        "demandAllocationHouse": null,
+        "demandAllocationDirect": null,
+        "tier": 1,
+        "directoryExpose": true,
+        "directoryExposePublic": true
+    }
+}

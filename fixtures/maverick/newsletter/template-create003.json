@@ -1,0 +1,41 @@
+{
+    "name": "mavNews",
+    "iabCategory": "IAB4: Careers",
+    "additionalCategories": ["IAB5: Education"],
+    "adSlots": [
+        {
+            "name": "native_in_feed",
+            "adType": "Native",
+            "displayType": "In-feed"
+        },
+        {
+            "name": "native_text_ad_in_article",
+            "adType": "Native",
+            "displayType": "Text Ad",
+            "adContext": "In-article"
+        },
+        {
+            "name": "native_text_ad_outside_core",
+            "adType": "Native",
+            "displayType": "Text Ad",
+            "adContext": "Outside of Core Content"
+        },
+        {
+            "name": "native_recommendation",
+            "adType": "Native",
+            "displayType": "Recommendation"
+        },
+        {
+            "name": "native_prod_listing_in_article",
+            "adType": "Native",
+            "displayType": "Product Listing",
+            "adContext": "In-article"
+        },
+        {
+            "name": "native_prod_listing_outside_core",
+            "adType": "Native",
+            "displayType": "Product Listing",
+            "adContext": "Outside of Core Content"
+        }
+    ]
+}
